@@ -3,7 +3,7 @@ ibarra2521/ibarra2521 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibarra2521&show_icons=true&theme=cobalt)](https://github.com/ibarra2521/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibarra2521&show_icons=true&theme=cobalt)](https://github.com/ibarra2521?tab=repositoriess)
 
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
@@ -14,18 +14,18 @@ You can click the Preview link to take a look at your changes.
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarra2521&layout=compact)](https://github.com/ibarra2521/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarra2521&layout=compact)](https://github.com/ibarra2521?tab=repositoriess)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarra2521)](https://github.com/ibarra2521/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarra2521)](https://github.com/ibarra2521?tab=repositoriess)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarra2521&langs_count=8)](https://github.com/ibarra2521/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarra2521&langs_count=8)](https://github.com/ibarra2521?tab=repositoriess)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarra2521&layout=compact)](https://github.com/ibarra2521/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarra2521&layout=compact)](https://github.com/ibarra2521?tab=repositoriess)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ibarra2521)](https://github.com/ibarra2521/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ibarra2521)](https://github.com/ibarra2521?tab=repositoriess)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibarra2521&repo=github-readme-stats)](https://github.com/ibarra2521/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibarra2521&repo=github-readme-stats)](https://github.com/ibarra2521?tab=repositoriess)
 
 http://www.nivardoibarra.com/
 
