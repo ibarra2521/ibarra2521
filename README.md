@@ -13,3 +13,5 @@ You can click the Preview link to take a look at your changes.
 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 --->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibarra2521&repo=github-readme-stats)]
