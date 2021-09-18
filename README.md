@@ -19,13 +19,9 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarra2521)](https://github.com/ibarra2521?tab=repositoriess)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarra2521&langs_count=8)](https://github.com/ibarra2521?tab=repositoriess)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarra2521&layout=compact)](https://github.com/ibarra2521?tab=repositoriess)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ibarra2521)](https://github.com/ibarra2521?tab=repositoriess)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibarra2521&repo=github-readme-stats)](https://github.com/ibarra2521?tab=repositoriess)
 
 http://www.nivardoibarra.com/
 
