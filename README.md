@@ -3,6 +3,9 @@ ibarra2521/ibarra2521 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarra2521&layout=compact)](https://github.com/ibarra2521?tab=repositoriess)
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibarra2521&show_icons=true&theme=cobalt)](https://github.com/ibarra2521?tab=repositoriess)
 
 <!---
@@ -14,13 +17,9 @@ You can click the Preview link to take a look at your changes.
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarra2521&layout=compact)](https://github.com/ibarra2521?tab=repositoriess)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarra2521)](https://github.com/ibarra2521?tab=repositoriess)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarra2521&layout=compact)](https://github.com/ibarra2521?tab=repositoriess)
 
 
 http://www.nivardoibarra.com/
