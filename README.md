@@ -16,4 +16,4 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibarra2521&repo=github-readme-stats)] -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibarra2521&repo=github-readme-stats)](https://github.com/ibarra2521/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=ibarra2521&repo=github-readme-stats)](https://github.com/ibarra2521/github-readme-stats)
