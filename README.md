@@ -3,7 +3,7 @@ ibarra2521/ibarra2521 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibarra2521&show_icons=true&theme=cobalt)](http://www.nivardoibarra.com/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibarra2521&show_icons=true&theme=cobalt)](https://github.com/ibarra2521/github-readme-stats)
 
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
@@ -16,14 +16,17 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarra2521&layout=compact)](https://github.com/ibarra2521/github-readme-stats)
 
-https://youtu.be/n3er0DuTWdM
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarra2521)](https://github.com/ibarra2521/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarra2521&langs_count=8)](https://github.com/ibarra2521/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarra2521&layout=compact)](https://github.com/ibarra2521/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ibarra2521)](https://github.com/ibarra2521/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibarra2521&repo=github-readme-stats)](https://github.com/ibarra2521/github-readme-stats)
+
+http://www.nivardoibarra.com/
+
+https://youtu.be/n3er0DuTWdM
