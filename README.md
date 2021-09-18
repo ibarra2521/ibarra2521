@@ -15,3 +15,5 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 --->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarra2521&layout=compact)]
+
+https://youtu.be/n3er0DuTWdM
